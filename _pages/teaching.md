@@ -10,6 +10,6 @@ author_profile: true
 
 University of Texas at Austin
 ===
-*Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
-*Fall 2021: ECE 351K Probability and Random Processes
+* Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
+* Fall 2021: ECE 351K Probability and Random Processes
 
