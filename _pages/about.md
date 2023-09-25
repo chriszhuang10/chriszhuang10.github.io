@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chris Zhuang"
+title: "About Me"
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
