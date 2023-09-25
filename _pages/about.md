@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is my website. Hello
+I am an undergraduate Electrical and Computer Engineering and Mathematics student at the University of Texas at Austin. I am interested in applications of machine learning for neuroimaging.
