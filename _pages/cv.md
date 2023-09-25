@@ -18,12 +18,12 @@ Experience
 ======
 * Summer 2023: Biomedical Optics REU
   * Massachusetts General Hospital
-  * Duties included: Object detection from PS-OCT
+  * Duties included: Object detection using PS-OCT data
   * Supervisor: Dr. Benjamin Vakoc
 
 * Summer 2022: iCompBio REU
   * University of Tennessee at Chattanooga
-  * Duties included: Graph Neural Networks for Covid-19 Predictions
+  * Duties included: Graph Neural Networks for Covid-19 Prediction
   * Supervisor: Dr. Yu Liang and Dr. Dalei Wu
 
   
