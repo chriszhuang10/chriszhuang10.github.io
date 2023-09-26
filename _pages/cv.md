@@ -14,7 +14,7 @@ Education
 * B.S. Electrical and Computer Engineering, University of Texas at Austin, 2023
 * B.S.A. Mathematics, University of Texas at Austin, 2023
 
-Experience
+Research Experience
 ---
 * Summer 2023: Biomedical Optics REU
   * Massachusetts General Hospital
@@ -26,7 +26,7 @@ Experience
   * Project: Graph Neural Networks for Covid-19 Prediction
   * Supervisor: Dr. Yu Liang and Dr. Dalei Wu
  
-Undergraduate Teaching
+Undergraduate Teaching Assistant
 ---
 University of Texas at Austin
 * Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
