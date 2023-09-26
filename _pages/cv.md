@@ -25,5 +25,12 @@ Experience
   * University of Tennessee at Chattanooga
   * Project: Graph Neural Networks for Covid-19 Prediction
   * Supervisor: Dr. Yu Liang and Dr. Dalei Wu
+ 
+Undergraduate Teaching
+---
+University of Texas at Austin
+* Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
+* Fall 2021: ECE 351K Probability and Random Processes
+
 
   
