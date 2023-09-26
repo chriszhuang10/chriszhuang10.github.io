@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, University of Texas at Austin, 2023
-* B.S.A. in Mathematics, University of Texas at Austin, 2023
+* B.S. Electrical and Computer Engineering, University of Texas at Austin, 2023
+* B.S.A. Mathematics, University of Texas at Austin, 2023
 
 Experience
 ======
