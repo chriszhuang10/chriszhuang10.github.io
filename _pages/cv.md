@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 * B.S. Electrical and Computer Engineering, University of Texas at Austin, 2023
 * B.S.A. Mathematics, University of Texas at Austin, 2023
 
 Experience
-======
+---
 * Summer 2023: Biomedical Optics REU
   * Massachusetts General Hospital
   * Project: Object detection using PS-OCT data
