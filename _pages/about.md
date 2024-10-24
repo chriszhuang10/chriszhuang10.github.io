@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate Electrical and Computer Engineering and Mathematics student at the University of Texas at Austin. I am interested in applications of machine learning for neuroimaging.
+I am a first year PhD student in computer science at Purdue University. I am fortuante enough to be advised by Ruqi Zhang. I completed my undergrate education at the University of Texas at Austin in Computer Science and Mathematics. My research interests are in the areas of machine learning applications and explanability.
