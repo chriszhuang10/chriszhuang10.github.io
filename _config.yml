@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris Zhuang"
 title_separator          : "|"
 name                     : &name "Chris Zhuang"
-description              : &description "Hi, I am a ECE and Math student at the University of Texas at Austin."
+description              : &description "Hello, I am a CS PhD student at Purdue University"
 url                      : https://chriszhuang10.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chriszhuang10.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Chris Zhuang"
   avatar           : "profile.png"
-  bio              : "chriszhuang0824@utexas.edu"
-  location         : "University of Texas at Austin"
+  bio              : "zhuang80@purdue.edu"
+  location         : "Purdue University"
   employer         :
   pubmed           :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
