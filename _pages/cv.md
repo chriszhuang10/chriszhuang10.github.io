@@ -18,6 +18,7 @@ Education
 Research Experience
 ---
 * Spring 2024 - Present: Research Assistant
+  * Purdue University
   * Advisor: Ruqi Zhang
   * Projects: DLP for Graph GA
 * Summer 2023: Biomedical Optics REU
