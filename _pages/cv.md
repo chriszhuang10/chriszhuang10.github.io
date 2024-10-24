@@ -31,7 +31,7 @@ Research Experience
   * Project: Graph Neural Networks for Covid-19 Prediction
   * Supervisor: Dr. Yu Liang and Dr. Dalei Wu
  
-Undergraduate Teaching Assistant
+Teaching Experience
 ---
 Purdue University
 * Spring 2024, Fall 2024: CS 176 Data Engineering in Python
