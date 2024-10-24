@@ -11,12 +11,15 @@ redirect_from:
 
 Education
 ---
-* PhD Student in Computer Science, Purdue University, 2023-Present
+* PhD Student in Computer Science, Purdue University, 2024-Present
 * B.S. Electrical and Computer Engineering, University of Texas at Austin, 2023
 * B.S.A. Mathematics, University of Texas at Austin, 2023
 
 Research Experience
 ---
+* Spring 2024 - Present: Research Assistant
+  * Advisor: Ruqi Zhang
+  * Projects: DLP for Graph GA
 * Summer 2023: Biomedical Optics REU
   * Massachusetts General Hospital
   * Project: Object detection using PS-OCT data
@@ -29,6 +32,8 @@ Research Experience
  
 Undergraduate Teaching Assistant
 ---
+Purdue University
+* Spring 2024, Fall 2024: CS 176 Data Engineering in Python
 University of Texas at Austin
 * Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
 * Fall 2021: ECE 351K Probability and Random Processes
