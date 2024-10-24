@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ---
+* PhD Student in Computer Science, Purdue University, 2023-Present
 * B.S. Electrical and Computer Engineering, University of Texas at Austin, 2023
 * B.S.A. Mathematics, University of Texas at Austin, 2023
 
