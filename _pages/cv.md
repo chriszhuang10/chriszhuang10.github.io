@@ -34,6 +34,7 @@ Undergraduate Teaching Assistant
 ---
 Purdue University
 * Spring 2024, Fall 2024: CS 176 Data Engineering in Python
+---
 University of Texas at Austin
 * Spring 2023: M 408D Sequences, Series, and Multivariable Calculus
 * Fall 2021: ECE 351K Probability and Random Processes
