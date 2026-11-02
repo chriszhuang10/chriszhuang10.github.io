@@ -21,11 +21,11 @@ Research Experience
   * Purdue University
   * Advisor: Ruqi Zhang
   * Projects: DLP for Graph GA
-* Summer 2023: Biomedical Optics REU
+* Summer 2023: Research Intern, Biomedical Optics REU
   * Massachusetts General Hospital
   * Project: Object detection using PS-OCT data
   * Advisor: Dr. Benjamin Vakoc
-* Summer 2022: iCompBio REU
+* Summer 2022: Research Intern, iCompBio REU
   * University of Tennessee at Chattanooga
   * Project: Graph Neural Networks for Covid-19 Prediction
   * Advisor: Dr. Yu Liang and Dr. Dalei Wu
