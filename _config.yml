@@ -86,7 +86,7 @@ author:
   location         : "Purdue University"
   employer         :
   pubmed           :
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=2&hl=en&user=zADQzAgAAAAJ&authuser=2"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
