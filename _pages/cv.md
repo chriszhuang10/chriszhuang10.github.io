@@ -20,7 +20,6 @@ Research Experience
 * Spring 2024 - Present: Research Assistant
   * Purdue University
   * Advisor: Ruqi Zhang
-  * Projects: DLP for Graph GA
 * Summer 2023: Research Intern, Biomedical Optics REU
   * Massachusetts General Hospital
   * Project: Object detection using PS-OCT data
